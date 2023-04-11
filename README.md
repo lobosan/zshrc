@@ -6,7 +6,7 @@
 - Update ~/.zshrc
 ```
 code ~/.zshrc
-ZSH_THEME="gozilla"
+ZSH_THEME="avit"
 ```
 
 - Install autosuggestions plugin
