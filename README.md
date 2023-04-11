@@ -20,6 +20,14 @@ plugins=(
 )
 ```
 
+- Install FNM
+```
+brew install fnm
+code ~/.zshrc
+# Fnm
+eval "$(fnm env --use-on-cd)"
+```
+
 - Install Fig
 ```
 brew install fig
