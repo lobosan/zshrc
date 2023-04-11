@@ -1,10 +1,8 @@
 # Customize ZSH on MacOS
 
 - Install ohmyzsh 
-```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
-
-- Update ~/.zshrc
 ```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 code ~/.zshrc
 ZSH_THEME="avit"
 ```
