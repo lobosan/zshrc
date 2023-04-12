@@ -18,6 +18,14 @@ plugins=(
 )
 ```
 
+- Install Brew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+code ~/.zshrc
+# Brew
+export PATH="/opt/homebrew/bin:$PATH"
+```
+
 - Install FNM
 ```
 brew install fnm
